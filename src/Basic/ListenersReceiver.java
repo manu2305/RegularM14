@@ -17,5 +17,4 @@ public ListenersReceiver(WebDriver driver){
 	PageFactory.initElements(driver,this);
 }
 
-@FindBy
 }
